@@ -1,6 +1,6 @@
 # Course-Projects
 
-## Bloack Breaker 
+## Block Breaker 
 
 <img src="https://github.com/CaglarAlperen/Course-Projects/blob/main/Screenshots/Block%20Breaker.PNG">  
 
